@@ -9,6 +9,7 @@
 
 from sense_hat import SenseHat
 import random
+import time
 
 sense = SenseHat()
 sense.rotation = 270
